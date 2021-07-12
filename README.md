@@ -10,5 +10,5 @@ Before use the config you must install next packagesï¼ˆgentoo linux for exampleï
 emerge linux-firmware sof-firmware
 ```
 
-Not works:
+what's works:
 - allmost all
