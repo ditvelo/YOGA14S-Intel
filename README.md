@@ -7,3 +7,6 @@ emerge linux-firmware sof-firmware
 Not works:
 - microphone
 - maybe infrared too
+
+-------------------------------------------------------------------------------------------------
+# No Longer Update
